@@ -1,0 +1,33 @@
+
+# Python
+#
+# Python byte-code files
+*.pyc
+__pycache__/
+#
+# Virtual environment
+venv/
+env/
+.venv/
+#
+# IDE-specific files (customize as needed)
+.idea/  # PyCharm
+.vscode/ # VS Code (uncomment if you want to ignore the entire folder)
+#
+# Build artifacts
+dist/
+build/
+*.egg-info/
+#
+# Installer logs
+pip-log.txt
+#
+# OS-specific files
+.DS_Store # macOS
+#
+# Testing and coverage
+.coverage
+htmlcov/
+#
+# Ruff cache
+.ruff_cache/
